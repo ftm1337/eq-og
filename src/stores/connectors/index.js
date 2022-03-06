@@ -5,7 +5,7 @@ import { NetworkConnector } from '@web3-react/network-connector'
 
 const POLLING_INTERVAL = 12000
 const RPC_URLS = {
-  250: `https://rpc.ankr.com/fantom/${process.env.NEXT_PUBLIC_ANKR_KEY}`,
+  250: `https://rpcapi.fantom.network`,
   4002: 'https://rpc.testnet.fantom.network',
 }
 
