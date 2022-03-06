@@ -1,4 +1,3 @@
-import React from 'react'
 import LiquidityCreate from '../../../components/ssLiquidityManage'
 
 import classes from './liquidity.module.css'

@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import { Component } from 'react'
 import { Snackbar, IconButton, Button, Typography, SvgIcon } from '@material-ui/core'
 
 import { colors } from '../../theme/coreTheme'

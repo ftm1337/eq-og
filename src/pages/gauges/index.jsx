@@ -1,7 +1,7 @@
 import { Typography, Button, Paper, SvgIcon } from '@material-ui/core'
 import LiquidityPairs from '../../components/ssLiquidityPairs'
 
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { ACTIONS } from '../../stores/constants'
 
 import stores from '../../stores'

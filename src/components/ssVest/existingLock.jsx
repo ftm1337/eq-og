@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { useRouter } from 'next/router'
 import { Paper, Typography, IconButton } from '@material-ui/core'
 import classes from './ssVest.module.css'

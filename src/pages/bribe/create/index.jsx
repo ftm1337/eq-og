@@ -1,4 +1,3 @@
-import React from 'react'
 import BribeCreate from '../../../components/ssBribeCreate'
 
 import classes from './create.module.css'

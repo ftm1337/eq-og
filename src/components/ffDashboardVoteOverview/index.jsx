@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { Paper, Grid, Typography, SvgIcon } from '@material-ui/core'
 
 import { formatCurrency } from '../../utils'

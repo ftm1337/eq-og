@@ -1,4 +1,3 @@
-import React from 'react'
 import LiquidityManage from '../../../components/ssLiquidityManage'
 
 import classes from './gauges.module.css'

@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import { Component } from 'react'
 import { DialogContent, Dialog, Slide } from '@material-ui/core'
 
 import Unlock from './unlock'

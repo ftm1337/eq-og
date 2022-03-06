@@ -1,7 +1,7 @@
 import { Typography, Button, Paper } from '@material-ui/core'
 import VestsNFTs from '../../components/ssVests'
 
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { ACTIONS } from '../../stores/constants'
 
 import stores from '../../stores'

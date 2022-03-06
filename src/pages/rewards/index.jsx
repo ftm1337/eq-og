@@ -1,7 +1,7 @@
 import { Typography, Button, Paper } from '@material-ui/core'
 import SSRewards from '../../components/ssRewards'
 
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { ACTIONS } from '../../stores/constants'
 
 import stores from '../../stores'

@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import { Button, Typography, Grid, Select, MenuItem } from '@material-ui/core'
 import classes from './ssRewards.module.css'
 

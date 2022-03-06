@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { Typography, Button, TextField, CircularProgress } from '@material-ui/core'
 import { useRouter } from 'next/router'
 import BigNumber from 'bignumber.js'

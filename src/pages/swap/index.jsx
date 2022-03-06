@@ -1,7 +1,7 @@
 import { Typography, Button, Paper } from '@material-ui/core'
 import SwapComponent from '../../components/ssSwap'
 
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { ACTIONS } from '../../stores/constants'
 import stores from '../../stores'
 import Unlock from '../../components/unlock'

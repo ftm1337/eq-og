@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { Typography, DialogContent, Dialog, Slide, IconButton } from '@material-ui/core'
 import OpenInNewIcon from '@material-ui/icons/OpenInNew'
 import CloseIcon from '@material-ui/icons/Close'

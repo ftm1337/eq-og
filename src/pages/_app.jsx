@@ -6,7 +6,6 @@ import { ThemeProvider } from '@material-ui/core/styles'
 import CssBaseline from '@material-ui/core/CssBaseline'
 import { useRouter } from 'next/router'
 
-import lightTheme from '../theme/light'
 import darkTheme from '../theme/dark'
 
 import Configure from './configure'

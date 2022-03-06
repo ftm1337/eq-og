@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { Typography, Paper, Button } from '@material-ui/core'
 import { createTheme, ThemeProvider } from '@material-ui/core/styles'
 import PieChartIcon from '@material-ui/icons/PieChart'

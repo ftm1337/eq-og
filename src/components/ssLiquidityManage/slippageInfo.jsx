@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react'
+import { Fragment } from 'react'
 import PropTypes from 'prop-types'
 import { Alert } from '@material-ui/lab'
 import { withStyles } from '@material-ui/core/styles'

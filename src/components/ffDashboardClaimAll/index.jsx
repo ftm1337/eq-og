@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { Paper, Typography, Button, CircularProgress, SvgIcon, Grid } from '@material-ui/core'
 import BigNumber from 'bignumber.js'
 import classes from './ffDashboardClaimAll.module.css'

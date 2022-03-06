@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { Typography, Button, Tooltip } from '@material-ui/core'
 import classes from './transactionQueue.module.css'
 

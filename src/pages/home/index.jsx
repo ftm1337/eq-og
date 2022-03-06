@@ -2,7 +2,6 @@ import { Typography, Button, SvgIcon, Grid } from '@material-ui/core'
 
 import classes from './home.module.css'
 
-import React from 'react'
 import { useRouter } from 'next/router'
 
 function SiteLogo(props) {

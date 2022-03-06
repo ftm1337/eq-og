@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { Typography, Button, TextField, CircularProgress, RadioGroup, Radio, FormControlLabel } from '@material-ui/core'
 import { useRouter } from 'next/router'
 import moment from 'moment'

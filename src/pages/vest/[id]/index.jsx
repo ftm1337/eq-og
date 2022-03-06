@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import { Typography, Button, Paper, SvgIcon } from '@material-ui/core'
 import Vesting from '../../../components/ssVest'
 

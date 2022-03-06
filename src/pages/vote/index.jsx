@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { Typography, Button, Paper } from '@material-ui/core'
 import Gauges from '../../components/ssVotes'
 import Unlock from '../../components/unlock'

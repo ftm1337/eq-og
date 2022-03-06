@@ -5,7 +5,7 @@ import ClaimAll from '../../components/ffDashboardClaimAll'
 
 import classes from './dashboard.module.css'
 
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { ACTIONS } from '../../stores/constants'
 import stores from '../../stores'
 import { useRouter } from 'next/router'

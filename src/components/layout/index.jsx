@@ -1,4 +1,3 @@
-import React from 'react'
 import Head from 'next/head'
 import classes from './layout.module.css'
 import Header from '../header'

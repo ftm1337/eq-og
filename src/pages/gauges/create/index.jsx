@@ -1,5 +1,3 @@
-import React from 'react'
-
 import LiquidityCreate from '../../../components/ssLiquidityCreate'
 
 import classes from './gauges.module.css'
